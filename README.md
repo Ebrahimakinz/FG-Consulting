@@ -75,26 +75,82 @@ Path Forward:<br/>
 </p>
 
 <h2>Final Presentation:</h2>
-The final output of this engagement was the Transformation Report and the Executive Presentation, designed to provide the Board of Directors with decisive recommendations.
+The final output of this engagement was the Transformation Report and the Executive Presentation, designed to provide the Board of Directors with decisive recommendations. 
 
 The presentation structure was intentionally prioritized to drive immediate decision-making:
+We began by addressing the overarching question—the full IT outsourcing decision—and advising on innovation and M&A risks. This established the high-level strategic direction for FamilyGrocer Inc.'s future
 
 <p align="center">
-IT Risk Management Challenges for FamilyGrocer: <br/>
-<img src="https://imgur.com/Nj2eCzu.png" height="80%" width="80%" alt="Risk"/>
+Strategic (1a): innovation/expansion recommendations: drone delivery: <br/>
+<img src="https://imgur.com/iZmoSSm.png" height="80%" width="80%" alt="Strategic"/>
 <br />
 <br />
-Recommended Actions for IT Risk Maturity:
+Strategic (1b): innovation/expansion recommendations: IOT ENABLEMENT:
 <br/>
-<img src="https://imgur.com/90XVsM4.png" height="80%" width="80%" alt="Risk"/>
+<img src="https://imgur.com/HKDPuHZ.png" height="80%" width="80%" alt="Strategic"/>
 <br />
 <br />
-COBIT Processes – Key Concerns and Strengths:<br/>
-<img src="https://imgur.com/x888MW5.png" height="80%" width="80%" alt="Risks"/>
+Strategic (1C): innovation/expansion recommendations: web-based grocery:<br/>
+<img src="https://imgur.com/rsTjTuX.png" height="80%" width="80%" alt="Strategic"/>
 <br />
 <br />
-Path Forward:<br/>
-<img src="https://imgur.com/CorqedC.png" height="80%" width="80%" alt="Risk"/>
+Strategic (1D): innovation/expansion recommendations: SOCIAL MEDIA:<br/>
+<img src="https://imgur.com/0bI3MgE.png" height="80%" width="80%" alt="Strategic"/>
+<br />
+<br />
+Strategic (1E): innovation/expansion recommendations: ANALYTICS: <br/>
+<img src="https://imgur.com/i0BkgEs.png" height="80%" width="80%" alt="Strategic"/>
+<br />
+<br />
+Strategic (1f): innovation/expansion recommendations: pharmacy acquisition
+<br/>
+<img src="https://imgur.com/HKDPuHZ.png" height="80%" width="80%" alt="Strategic"/>
+<br />
+<br />
+Strategic (2): FULL OUTSOURCING OF IT DEPT?:<br/>
+<img src="https://imgur.com/L8jQF2d.png" height="80%" width="80%" alt="Strategic"/>
+<br />
+<br />
+Strategic (3): Effects of hybrid outsourcing on it risk management, specifically cybersecurity?:<br/>
+<img src="https://imgur.com/RgKAeiq.png" height="80%" width="80%" alt="Strategic"/>
+<br />
+<br />
+</p>
+
+Following the strategic alignment, we presented the necessary operational fixes, focusing on compliance (SOX/GDPR), remedying the stalled SAP/CRM implementation, and strengthening Latin American controls.
+<p align="center"> 
+Operational (1): Most important it regulations How to tackle? <br/>
+<img src="https://imgur.com/sZbFVfv.png" height="80%" width="80%" alt="Operational"/>
+<br />
+<br />
+Operational (2): completion of sap implementation; Asia, Latin America?
+<br/>
+<img src="https://imgur.com/W1MLqnz.png" height="80%" width="80%" alt="Operationalk"/>
+<br />
+<br />
+Operational (3): IT Controls in Latin America?<br/>
+<img src="https://imgur.com/xCB5hH1.png" height="80%" width="80%" alt="Operationals"/>
+<br />
+<br />
+Operational (4): What To do with the CRM?<br/>
+<img src="https://imgur.com/0jeRD95.png" height="80%" width="80%" alt="Operational"/>
+<br />
+<br />
+Operational (5): IT Controls – cloud based services? <br/>
+<img src="https://imgur.com/9L5GDfQ.png" height="80%" width="80%" alt="Operational"/>
+<br />
+<br />
+Operational (6): 
+How to Deal with the requirements from the Desktop Software Vendor?<br/>
+<img src="https://imgur.com/zyJFLpF.png" height="80%" width="80%" alt="Operational"/>
+<br />
+<br />
+</p>
+
+The presentation concluded with a clear, phased Transformation Roadmap, detailing the path to elevate IT Risk Management maturity and implement the necessary controls to support global expansion safely.
+<p align="center">
+STRATEGIC & OPERATIONAL ROADMAP:<br/>
+<img src="https://imgur.com/HEAMVTu.png" height="80%" width="80%" alt="Roadmap"/>
 <br />
 <br />
 
